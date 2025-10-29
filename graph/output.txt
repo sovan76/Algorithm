@@ -1,0 +1,2 @@
+Enter grid size (rows cols): Enter grid values (0 empty, 1 fresh, 2 rotten):
+Minimum minutes to rot all oranges: 4
